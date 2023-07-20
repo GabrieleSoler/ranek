@@ -1,14 +1,26 @@
 {
   "usuario": [
     {
-    "id": "andre@origamid.com",
-    "nome": "André Rafael",
-    "senha": "123",
-    "email": "andre@origamid.com",
-    "rua": "Rua Ali Perto",
-    "cep": "25",
-    "estado": "RJ",
-    "cidade": "Rio de Janeiro"
+      "id": "andre@origamid.com",
+      "nome": "Gabriele",
+      "senha": "123",
+      "email": "gabriele.dasolervieira@gmail.com",
+      "rua": "Rua Ali Perto",
+      "cep": "25",
+      "estado": "RJ",
+      "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "DR28o_K",
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
     }
   ],
   "produto": [
@@ -28,15 +40,6 @@
       "preco": "1999",
       "vendido": "false",
       "descricao": "Esse é um novo smartphone",
-      "fotos": null
-    },
-    {
-      "id": "tablet",
-      "nome": "Tablet",
-      "usuario_id": "andre@origamid.com",
-      "preco": "1299",
-      "vendido": "false",
-      "descricao": "Esse é um novo tablet",
       "fotos": null
     },
     {
